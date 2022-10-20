@@ -162,4 +162,3 @@ suite('Functional Tests', function() {
 	});
 
 });
-
