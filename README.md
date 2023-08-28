@@ -1,4 +1,4 @@
-# programming-a-nodejs-app
+# Programming a NodeJS app
 
 An example NodeJS app using MySQL and ExpressJS.
 
